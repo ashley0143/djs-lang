@@ -1,3 +1,4 @@
+//Ty to a qt
 import Discord from 'discord.js';
 import { readFileSync } from 'node:fs';
 import { execSync } from 'node:child_process';
